@@ -1,1 +1,12 @@
+* {
+  font-family: Helvetica;
+}
+
+.title {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
 
