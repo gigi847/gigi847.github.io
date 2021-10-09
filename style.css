@@ -27,3 +27,7 @@ h2 {
   background-color: skyblue;
 }
 
+strong {
+  font-weight: bold;
+  color: blue;
+}
